@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pasindu or @pacindu (pasindu was taken)
+- 👀 I’m interested in AWS Cloud Engineering and DevOps Engineering and much more
+- 🌱 I’m currently learning Kubernetes
+- 📫 How to reach me https://www.linkedin.com/in/kpasindu
